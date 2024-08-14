@@ -29,6 +29,7 @@ export const childrenWithOverriddenStyle = (
           height: '100%',
           width: '100%',
           paddingHorizontal: pageMargin / 2,
+          position: 'absolute',
         }}
         collapsable={false}
       >
